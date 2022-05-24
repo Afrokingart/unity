@@ -48,6 +48,10 @@
   transition: all 0.2s ease-in-out;
 }
 
+.unity__cta__btn button:hover {
+  transform: scale(1.1);
+}
+
 @media screen and (max-width: 650px) {
   .unity__cta {
     flex-direction: column;

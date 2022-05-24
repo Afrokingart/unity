@@ -95,6 +95,11 @@
   color: #fff;
   margin: 0.5rem 0;
   cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.unity__footer__links__div p:hover {
+  transform: scale(1.1);
 }
 
 .unity__footer__copyright {

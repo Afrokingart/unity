@@ -16,7 +16,7 @@ export default function Blog() {
           <Article
             imgUrl={blog01}
             date="Sep 26, 2021"
-            text="Exercitation magna reprehenderit mollit ullamco incididunt sunt enim officia sit ipsum labore officia occaecat amet?"
+            text="Exercitation magna reprehenderit mollit ullamco incididunt sunt enim officia sit ipsum labore officia?"
           />
         </div>
         <div className="unity__blog__container__groupB">
@@ -38,7 +38,7 @@ export default function Blog() {
           <Article
             imgUrl={blog05}
             date="Sep 26, 2021"
-            text="Pariatur elit dolore esse elit ullamco velit eu elit occaecat laboris officia occaecat?"
+            text="Pariatur elit dolore esse elit ullamco velit eu elit occaecat laboris officia occaecat pariatur qui?"
           />
         </div>
       </div>
